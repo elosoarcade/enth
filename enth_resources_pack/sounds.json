@@ -1,0 +1,20 @@
+{
+  "entity_sounds": {
+    "entities": {
+      "eoa:enth": {
+        "events": {
+          "ambient": "mob.warden.idle",
+          "death": "mob.endermen.death",
+          "hurt": "mob.warden.hurt",
+          "mad": "mob.warden.angry",
+          "stare": "mob.warden.heartbeat"
+        },
+        "pitch": [
+          0.3,
+          0.7
+        ],
+        "volume": 2
+      }
+    }
+  }
+}

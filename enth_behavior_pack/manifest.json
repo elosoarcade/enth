@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Enth (B)",
+		"description": "Add the Enth to Bedrock by El Oso Arcade",
+		"uuid": "04bed06b-7f76-8904-2143-66153b4211f0",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["El Oso Arcade"],
+		"license": "CC BY-NC-ND 4.0 - Enth MCBE Add-on",
+		"product_type": "addon",
+		"url": "https://github.com/elosoarcade/enth"
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "006cdf9b-b8d1-a760-aec3-9bd1793122a9",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "a7acf899-737f-01e8-65af-e52fb03e96b5",
+			"version": [1, 0, 0]
+		}
+	]
+}
