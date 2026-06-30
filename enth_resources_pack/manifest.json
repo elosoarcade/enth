@@ -4,7 +4,7 @@
 		"name": "Enth (R)",
 		"description": "Add the Enth to Bedrock by El Oso Arcade",
 		"uuid": "a7acf899-737f-01e8-65af-e52fb03e96b5",
-		"version": [1, 0, 0],
+		"version": [1, 1, 0],
 		"min_engine_version": [1, 16, 0]
 	},
 	"metadata": {
@@ -18,7 +18,7 @@
 			"description": "Enth",
 			"type": "resources",
 			"uuid": "b8815217-1074-7876-cef2-e719282d9202",
-			"version": [1, 0, 0]
+			"version": [1, 1, 0]
 		}
 	]
 }
