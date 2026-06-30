@@ -7,4 +7,4 @@ This mob isn't particularly fast, making it perfectly possible to escape from it
 
 This addon is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption and its available in english and español. 🇬🇧 🇲🇽
 
-![Enth MCBE Add-on](https://media.forgecdn.net/attachments/1606/557/135623-png.png)
+<img width="1200" height="675" alt="capturas_20260629_234715_0000" src="https://github.com/user-attachments/assets/34d6c1b5-3d56-4640-bcda-3dfade2023a7" />
